@@ -1,0 +1,22 @@
+.myNavBar {
+    -webkit-box-shadow: 0px 10px 5px 8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 10px 5px 8px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 10px 5px 8px rgba(0, 0, 0, 0.75);
+
+}
+
+.card-pizza:hover {
+    filter: drop-shadow(5px 5px 10px #000000);
+}
+
+.addTo:hover {
+    background-color: #f1f1f1;
+
+    color: #000;
+}
+
+.footer {
+    border-top: 2px solid #22222265;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(90deg, rgba(58, 180, 113, 1) 0%, rgba(255, 255, 255, 1) 50%, rgb(255, 0, 0) 100%);
+}
